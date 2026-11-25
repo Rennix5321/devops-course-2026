@@ -1,0 +1,6 @@
+---
+app_image: "ghcr.io/rennix5321/devops-ci-app"
+app_tag: "fecd67640034c1a08059926023e74ade9e7ef56b"
+app_container_name: "devops-ci-app"
+app_host_port: 5000
+app_internal_port: 5000
